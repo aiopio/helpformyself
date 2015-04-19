@@ -1,4 +1,4 @@
-# helpformyself
+#帮助我自己helpformyself
 
 # for my use linux system
 
@@ -7,3 +7,8 @@
 # Todo
 
 ## db desgin
+
+id
+title
+content
+
